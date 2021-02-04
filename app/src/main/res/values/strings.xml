@@ -2,4 +2,21 @@
     <string name="app_name">About Me</string>
     <string name="name">First Last</string>
     <string name="yellow_star">Yellow star</string>
+
+    <string name="bio">Hi, my name is First.
+        \n\nI love sports.
+        \n\nI also enjoy playing variety of sports.
+        \nMy favorite is Basketball.
+        \nSecond is Football.
+        \nThird is Baseball.
+        \nFourth is Soccer.
+        \n\nI like to workout.
+        \nAnd sometimes hiking.
+        \nAnd some outdoor activity.
+        \n\nI once hit 315lbs on squats.
+        \nHit 235lbs on bench.
+        \nHit 245lbs on deadlift
+        \n\nOnce the gyms open again I\'ll make sure to go to the gym.
+        \nAnd increase my personal record.\n\n</string>
+
 </resources>
